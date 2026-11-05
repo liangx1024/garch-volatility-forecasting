@@ -1,0 +1,12 @@
+# Python and notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.venv-*/
+
+# Local configuration
+.env
+.env.*
+.DS_Store
+.vscode/
