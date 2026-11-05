@@ -4,6 +4,8 @@ A Python comparison of **Gaussian GARCH(1,1)**, **Student's t GARCH(1,1)**, **ro
 
 **[View the notebook](notebooks/GARCH_Project.ipynb)** for the mathematics, code, results, and charts.
 
+**[Read the executive summary (PDF)](notebooks/Executive_Summary.pdf)** for a brief overview.
+
 ## Method and results
 
 - **Data:** Yahoo Finance adjusted SPY prices, 2010–2025.
@@ -15,7 +17,7 @@ Squared shocks are noisy volatility proxies. The Student's t comparison is explo
 
 ## Files
 
-- `notebooks/`: self-contained project report with saved outputs.
+- `notebooks/`: self-contained project report with saved outputs and executive summary PDF.
 - `src/`: reusable forecasting, likelihood, and evaluation functions.
 - `requirements.txt`: Python dependencies.
 
